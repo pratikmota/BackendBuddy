@@ -1,0 +1,6 @@
+go 1.18
+
+use (
+	./1_fmt-golang
+	./2_Multiple-func-slice
+)
