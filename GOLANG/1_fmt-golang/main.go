@@ -37,7 +37,7 @@ func main() {
 	// #6 Scan variable with formatting
 	var name2 string
 	fmt.Scanf("%s", &name2)
-	fmt.Printf("Name2: %s", name2)
+	fmt.Printf("Name2: %s\n", name2)
 
 	// #7 Scan text with datatype with Space
 	var st string
