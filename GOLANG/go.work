@@ -4,4 +4,7 @@ use (
 	./1_fmt-golang
 	./2_Multiple-func-slice
 	./4_str_int
+	./7_decode_json
+	./8_Install_GIN
+
 )
